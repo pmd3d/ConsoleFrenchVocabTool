@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\SpacedRepitition.NetF-master\SpacedRepetition.Net\SpacedRepetition.Net.fsproj" />
+    <ProjectReference Include="..\..\..\SpacedRepitition.NetF-master\SpacedRepetition.Net\SpacedRepetition.Net.fsproj" />
   </ItemGroup>
 
 </Project>

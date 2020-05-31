@@ -30,6 +30,7 @@ let quiz (session : StudySession<vocab>) (item : vocabReviewItem) : vocabReviewI
         | Some outcome -> outcome
         | None -> needInput()
 
+    Console.Clear();
     printfn "français: %s" item.Item.French
 
     let outcomeEarly = getInput()
@@ -61,7 +62,9 @@ let main argv =
     let studySession = new StudySession<vocab>(vocabSet, getNow, strategy, 3, 3)
     let mapWithQuiz = quiz studySession
     help()
-    let result = List.map mapWithQuiz vocabSet
-    let json = Encode.Auto.toString(4, result)
+    printfn "Press enter to start..."
+    Console.ReadKey() |> ignore;
+    let result = Seq.map mapWithQuiz studySession
+    let json = Encode.Auto.toString(4, Seq.toList(result))
     printfn "json: %s" json
     0 // return an ok exit code
