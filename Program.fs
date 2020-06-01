@@ -1,5 +1,11 @@
-﻿// Learn more about F# at http://fsharp.org
+﻿(*
 
+Algorithm SM-2, (C) Copyright SuperMemo World, 1991.
+
+https://www.supermemo.com
+https://www.supermemo.eu
+
+*)
 open System
 open System.IO
 open Thoth.Json.Net
