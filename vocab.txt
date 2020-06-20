@@ -1,0 +1,67 @@
+[     
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Mais",
+            "English": "but"
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "On sait peu de choses sur la conférence WWDC 2020",
+            "English": "Little is known about the WWDC 2020 conference"
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "C’est donc le quatrième plan",
+            "English": "So this is the fourth plan"
+        }
+    },    
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Nokia va encore une fois trancher dans sa masse salariale en France. ",
+            "English": "Nokia will once again slice its payroll in France"
+        }
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Nokia va supprimer plus de 1 200 emplois en France",
+            "English": "Nokia will cut more than 12000 epmloyees in France"
+        }
+    }
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-12-11T08:58:22.1480792-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    86
+                ]
+            }
+        ],
+        "Item": {
+            "French": "derni�re danse",
+            "English": "last dance"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-12-11T08:58:21.4276549-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    84
+                ]
+            }
+        ],
+        "Item": {
+            "French": "la musique",
+            "English": "music"
+        }
+    }
+]
