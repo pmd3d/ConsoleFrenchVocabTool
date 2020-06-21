@@ -1,4 +1,44 @@
-[     
+[
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "vous risquez de vous priver de bonnes protections de base, faciles à mettre en place et à maintenir.",
+            "English": "you risk depriving yourself of of good basic protections, easy to setup and maintain."
+        }
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Si vous ignorez ou si vous avez désactivé le pare-feu de Windows,",
+            "English": "If you ignore or if you have deactivated the guard fire of windows,"
+        }
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Depuis 2016, le réseau de formations labellisées Grande Ecole du Numérique (GEN) a permis à 27 921 personnes de se former aux métiers du numérique sur l'ensemble du territoire français.",
+            "English": "Since 2016, the network of educations named Big School of Numeric, allowed 27,921 people to train for digital jobs  throughout France"
+        }
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Un cocktail de données personnelles et financières dévoilées",
+            "English": "A cocktail of personal and  financial data revealed"
+    },
+
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "« C'est le plus grand hack publié des agences américaines d'application de la loi », a écrit Emma Best, rapporte Wired.",
+            "English": "this is the largest hack released from american law agency, wrote Emma Best, reports Wired"
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "les Anonymous ont publié 269 Go de données issues de bases de données des forces de police.",
+            "English": "anonymous have published 269 GB from police databases"
+    },
     {
         "Status": "NeverReviewed",
         "Item": {
