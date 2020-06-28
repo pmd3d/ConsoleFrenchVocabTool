@@ -1,11 +1,39 @@
-[
+[    
     {        
         "Status": "NeverReviewed",
         "Item": {
-            "French": "La Wild Code School ouvre un 1er campus virtuel",
+            "French": "pour recouvrer les données chiffrées relatives à son école de médecine.",
+            "English": "for recovering the encrypted data from its medical school"
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "l'Université de San Francisco a accepté de verser 116,4 bitcoins à un groupe de cybercriminels",
+            "English": "University of San Francisco agreed to pay 116,4 bitcoins to a group of cybercriminals."
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Piégée début juin par le rançongiciel Netwalker,",
+            "English": "Trapped since June by the ransomware Netwalker."
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Ransomware : L'Université de San Francisco cède et verse 1,14M$",
+            "English": "Ransomware: The University of San Francisco sells and pays $ 1.14M"
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "La Wild Code School ouvre un 1er (premier) campus virtuel",
             "English": "The Wild Code School opens their first virtual campus"
         }
-    }
+    },
     {        
         "Status": "NeverReviewed",
         "Item": {
@@ -45,7 +73,7 @@
         "Status": "NeverReviewed",
         "Item": {
             "French": "Depuis 2016, le réseau de formations labellisées Grande Ecole du Numérique (GEN) a permis à 27 921 personnes de se former aux métiers du numérique sur l'ensemble du territoire français.",
-            "English": "Since 2016, the network of educations named Big School of Numeric, allowed 27,921 people to train for digital jobs  throughout France"
+            "English": "Since 2016, the network of educations named Big School of Numeric, allowed 27,921 people to train for digital jobs throughout France"
         }
     },
     {
