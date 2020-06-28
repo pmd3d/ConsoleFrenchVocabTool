@@ -1,4 +1,32 @@
 [
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "La Wild Code School ouvre un 1er campus virtuel",
+            "English": "The Wild Code School opens their first virtual campus"
+        }
+    }
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "c'est mon fils très aimé, c'est lui que j'ai choisi avec joie",
+            "English": "This is my beloved son, him that I have chosen with joy"
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Sony ouvre une chasse aux bugs.",
+            "English": "Sony opens hunt for bugs."
+        }
+    },
+    {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Le groupe France Télévisions frappé par une cyberattaque",
+            "English": "French TV group hit by a cyberattack"
+        }
+    },
     {
         "Status": "NeverReviewed",
         "Item": {
