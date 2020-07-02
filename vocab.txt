@@ -1,4 +1,32 @@
-[    
+[
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "mais reste à savoir si pour ce prix serré Netflix sera ou pas inclus",
+            "English": "but it remains to be seen whether Netflix will be included for this tight price"
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Cette fois-ci, c'est parti.",
+            "English": "This time, it's gone"
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "La prochaine Freebox de Free va être présentée le 7 juillet 2020",
+            "English": "The next Free Freebox will be presented on July 7 2020"
+        }
+    },
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "La Freebox Pop dévoilée le 7 juillet 2020",
+            "English": "Freebox pop revealed July 7, 2020"
+        }
+    },
     {        
         "Status": "NeverReviewed",
         "Item": {
