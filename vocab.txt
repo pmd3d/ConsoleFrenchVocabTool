@@ -1,4 +1,25 @@
-[
+[    
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Le développement des alternatives à la NAND flash s'accélère avec des acteurs comme Weebit Nano",
+            "English": "The development of alternatives to NAND flash is accelerating with players like Weebit Nano"
+        }
+    },    
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": " « L'objectif était de rendre le droit du travail accessible à tous, employés comme employeurs » a rappelé Hélène Brisset.",
+            "English": "The objective was to make labor law accessible to everyone, employees and employers, ”said Hélène Brisset."
+        }
+    },    
+    {        
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "En particulier, elle a présenté une start-up d'État : le Code du Travail numérique."
+            "English": "In particular, she presented a state start-up: the Digital Labor Code."
+        }
+    },
     {        
         "Status": "NeverReviewed",
         "Item": {
