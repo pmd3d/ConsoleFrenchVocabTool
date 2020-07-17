@@ -3,6 +3,22 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
+                "ReviewDate": "2021-01-10T18:13:33.3425157Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "On ne peut pas dire qu'Apple soit une entreprise technologique très ouverte",
+            "English": "One cannot say that Apple is known as a very open tech company"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
                 "ReviewDate": "2021-01-09T00:01:46.0347028Z",
                 "DifficultyRating": [
                     "DifficultyRating",
@@ -323,7 +339,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:26:21.9117328-08:00",
+                "ReviewDate": "2021-01-10T01:26:21.9117328Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -339,7 +355,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:26:07.0941475-08:00",
+                "ReviewDate": "2021-01-10T01:26:07.0941475Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -355,7 +371,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:26:02.9497297-08:00",
+                "ReviewDate": "2021-01-10T01:26:02.9497297Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -369,25 +385,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-09T17:25:51.3782907-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Cette fois-ci, c'est parti.",
-            "English": "This time, it's gone"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:25:44.7673560-08:00",
+                "ReviewDate": "2021-01-10T01:25:44.7673560Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -403,7 +403,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:25:31.7958894-08:00",
+                "ReviewDate": "2021-01-10T01:25:31.7958894Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -419,7 +419,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:25:18.1191900-08:00",
+                "ReviewDate": "2021-01-10T01:25:18.1191900Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -435,7 +435,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:24:48.4971242-08:00",
+                "ReviewDate": "2021-01-10T01:24:48.4971242Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -451,7 +451,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:24:37.4893349-08:00",
+                "ReviewDate": "2021-01-10T01:24:37.4893349Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -467,7 +467,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:24:27.3632293-08:00",
+                "ReviewDate": "2021-01-10T01:24:27.3632293Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -481,25 +481,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-09T17:24:15.9434431-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
-            "English": "An investigation unit and 60 gendarmes involved"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:23:56.0952544-08:00",
+                "ReviewDate": "2021-01-10T01:23:56.0952544Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -515,7 +499,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:23:52.1414123-08:00",
+                "ReviewDate": "2021-01-10T01:23:52.1414123Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -531,7 +515,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:23:46.1445528-08:00",
+                "ReviewDate": "2021-01-10T01:23:46.1445528Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -547,7 +531,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:23:40.3500106-08:00",
+                "ReviewDate": "2021-01-10T01:23:40.3500106Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -563,7 +547,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:23:27.8112746-08:00",
+                "ReviewDate": "2021-01-10T01:23:27.8112746Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -577,25 +561,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-09T17:23:02.6482390-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Des faux supports techniques à détecter pour mieux les éviter",
-            "English": "Fake technical support detected for better to avoid."
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:22:38.8666583-08:00",
+                "ReviewDate": "2021-01-10T01:22:38.8666583Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -611,7 +579,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:22:19.0543327-08:00",
+                "ReviewDate": "2021-01-10T01:22:19.0543327Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -625,25 +593,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-09T17:22:06.0759660-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "les équipes de développement peuvent adopter pour apporter des modifications aux codes",
-            "English": "development teams can adopt for bringing changes to code"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:21:42.6215264-08:00",
+                "ReviewDate": "2021-01-10T01:21:42.6215264Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -659,7 +611,71 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-09T17:21:31.5853017-08:00",
+                "ReviewDate": "2021-01-12T18:06:50.0017580-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Cette fois-ci, c'est parti.",
+            "English": "This time, it's gone"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2021-01-12T18:06:32.9962112-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
+            "English": "An investigation unit and 60 gendarmes involved"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-12T18:06:17.4214853-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Des faux supports techniques à détecter pour mieux les éviter",
+            "English": "Fake technical support detected for better to avoid."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2021-01-12T18:06:03.1839147-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "les équipes de développement peuvent adopter pour apporter des modifications aux codes",
+            "English": "development teams can adopt for bringing changes to code"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-12T18:05:40.1096152-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -669,6 +685,54 @@
         "Item": {
             "French": "",
             "English": ""
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-12T18:05:37.0645091-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "que valent vraiment vos données",
+            "English": "What worth really your data?"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-12T18:05:30.3265134-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Dell confirme envisager un spin-off avec VMware",
+            "English": "Dell confirms considering a spin off of VMWare"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-12T18:05:23.4927372-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Twitter massivement piraté : plus de 100 000 $ en bitcoin détournés",
+            "English": "Twitter massive hack : more than $100,000 in bitcoin diverted"
         }
     }
 ]
