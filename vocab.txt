@@ -3,6 +3,86 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
+                "ReviewDate": "2021-01-15T01:09:27.7038882Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "L'éternel retour des serveurs ARM",
+            "English": "The eternal return of ARM servers"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T01:09:33.2482733Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Très populaires sur les terminaux mobiles",
+            "English": "Very popular on the mobile devices"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T01:09:37.8517927Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Alexa, Google Assistant et Siri dans le collimateur de l'Europe",
+            "English": "Alexa, Google Assistant and Siri in the crosshairs of Europe"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T01:09:40.7358999Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "L'éternel retour des serveurs ARM",
+            "English": "Eternal return of ARM servers"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T01:09:49.2818417Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
+            "English": "An investigation unit and 60 gendarmes involved"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
                 "ReviewDate": "2021-01-10T18:13:33.3425157Z",
                 "DifficultyRating": [
                     "DifficultyRating",
@@ -13,326 +93,6 @@
         "Item": {
             "French": "On ne peut pas dire qu'Apple soit une entreprise technologique très ouverte",
             "English": "One cannot say that Apple is known as a very open tech company"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:01:46.0347028Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Nokia va supprimer plus de 1 200 emplois en France",
-            "English": "Nokia will cut more than 12000 epmloyees in France"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:02:36.4037130Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "C’est donc le quatrième plan",
-            "English": "So this is the fourth plan"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:02:49.2392896Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "On sait peu de choses sur la conférence WWDC 2020",
-            "English": "Little is known about the WWDC 2020 conference"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:02:51.0710648Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Mais",
-            "English": "but"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:03:08.3783238Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "les Anonymous ont publié 269 Go de données issues de bases de données des forces de police.",
-            "English": "anonymous have published 269 GB from police databases"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:03:34.1698410Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "« C'est le plus grand hack publié des agences américaines d'application de la loi », a écrit Emma Best, rapporte Wired.",
-            "English": "this is the largest hack released from american law agency, wrote Emma Best, reports Wired"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:03:37.2003893Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Un cocktail de données personnelles et financières dévoilées",
-            "English": "A cocktail of personal and  financial data revealed"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:01.4728531Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Depuis 2016, le réseau de formations labellisées Grande Ecole du Numérique (GEN) a permis à 27 921 personnes de se former aux métiers du numérique sur l'ensemble du territoire français.",
-            "English": "Since 2016, the network of educations named Big School of Numeric, allowed 27,921 people to train for digital jobs throughout France"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:13.3219406Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Si vous ignorez ou si vous avez désactivé le pare-feu de Windows,",
-            "English": "If you ignore or if you have deactivated the guard fire of windows,"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:21.9528001Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "vous risquez de vous priver de bonnes protections de base, faciles à mettre en place et à maintenir.",
-            "English": "you risk depriving yourself of of good basic protections, easy to setup and maintain."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:26.8877719Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Le groupe France Télévisions frappé par une cyberattaque",
-            "English": "French TV group hit by a cyberattack"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:32.9003021Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Sony ouvre une chasse aux bugs.",
-            "English": "Sony opens hunt for bugs."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:44.4187703Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "c'est mon fils très aimé, c'est lui que j'ai choisi avec joie",
-            "English": "This is my beloved son, him that I have chosen with joy"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:47.3488116Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "La Wild Code School ouvre un 1er (premier) campus virtuel",
-            "English": "The Wild Code School opens their first virtual campus"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:04:53.2331928Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Ransomware : L'Université de San Francisco cède et verse 1,14M$",
-            "English": "Ransomware: The University of San Francisco sells and pays $ 1.14M"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:05:02.6502588Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Piégée début juin par le rançongiciel Netwalker,",
-            "English": "Trapped since June by the ransomware Netwalker."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:00:28.8418378Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    75
-                ]
-            }
-        ],
-        "Item": {
-            "French": "la musique",
-            "English": "music"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-09T00:00:26.9485690Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    77
-                ]
-            }
-        ],
-        "Item": {
-            "French": "derni�re danse",
-            "English": "last dance"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-08T23:59:38.6183035Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "l'Université de San Francisco a accepté de verser 116,4 bitcoins à un groupe de cybercriminels",
-            "English": "University of San Francisco agreed to pay 116,4 bitcoins to a group of cybercriminals."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-08T23:59:25.8428312Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "pour recouvrer les données chiffrées relatives à son école de médecine.",
-            "English": "for recovering the encrypted data from its medical school"
         }
     },
     {
@@ -611,7 +371,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-12T18:06:50.0017580-08:00",
+                "ReviewDate": "2021-01-13T02:06:50.0017580Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -625,25 +385,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-12T18:06:32.9962112-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
-            "English": "An investigation unit and 60 gendarmes involved"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-12T18:06:17.4214853-08:00",
+                "ReviewDate": "2021-01-13T02:06:17.4214853Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -657,41 +401,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-12T18:06:03.1839147-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "les équipes de développement peuvent adopter pour apporter des modifications aux codes",
-            "English": "development teams can adopt for bringing changes to code"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-12T18:05:40.1096152-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "",
-            "English": ""
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-12T18:05:37.0645091-08:00",
+                "ReviewDate": "2021-01-13T02:05:37.0645091Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -707,7 +419,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-12T18:05:30.3265134-08:00",
+                "ReviewDate": "2021-01-13T02:05:30.3265134Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -723,7 +435,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-12T18:05:23.4927372-08:00",
+                "ReviewDate": "2021-01-13T02:05:23.4927372Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -733,6 +445,424 @@
         "Item": {
             "French": "Twitter massivement piraté : plus de 100 000 $ en bitcoin détournés",
             "English": "Twitter massive hack : more than $100,000 in bitcoin diverted"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:58:54.0170404-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "les équipes de développement peuvent adopter pour apporter des modifications aux codes",
+            "English": "development teams can adopt for bringing changes to code"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:58:38.2793816-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:01:46.0347028Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Nokia va supprimer plus de 1 200 emplois en France",
+            "English": "Nokia will cut more than 12000 epmloyees in France"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2021-01-15T16:58:29.4278256-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "C’est donc le quatrième plan",
+            "English": "So this is the fourth plan"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:58:18.2997098-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:02:49.2392896Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "On sait peu de choses sur la conférence WWDC 2020",
+            "English": "Little is known about the WWDC 2020 conference"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:58:07.1369762-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:02:51.0710648Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Mais",
+            "English": "but"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:58:05.1073416-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:03:08.3783238Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "les Anonymous ont publié 269 Go de données issues de bases de données des forces de police.",
+            "English": "anonymous have published 269 GB from police databases"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:57:49.3003599-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:03:34.1698410Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "« C'est le plus grand hack publié des agences américaines d'application de la loi », a écrit Emma Best, rapporte Wired.",
+            "English": "this is the largest hack released from american law agency, wrote Emma Best, reports Wired"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:57:35.3474311-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:03:37.2003893Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Un cocktail de données personnelles et financières dévoilées",
+            "English": "A cocktail of personal and  financial data revealed"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:57:30.6917056-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:01.4728531Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Depuis 2016, le réseau de formations labellisées Grande Ecole du Numérique (GEN) a permis à 27 921 personnes de se former aux métiers du numérique sur l'ensemble du territoire français.",
+            "English": "Since 2016, the network of educations named Big School of Numeric, allowed 27,921 people to train for digital jobs throughout France"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:57:10.7803415-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:13.3219406Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Si vous ignorez ou si vous avez désactivé le pare-feu de Windows,",
+            "English": "If you ignore or if you have deactivated the guard fire of windows,"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:57:05.4475067-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:21.9528001Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "vous risquez de vous priver de bonnes protections de base, faciles à mettre en place et à maintenir.",
+            "English": "you risk depriving yourself of of good basic protections, easy to setup and maintain."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:51.1908825-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:26.8877719Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Le groupe France Télévisions frappé par une cyberattaque",
+            "English": "French TV group hit by a cyberattack"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:45.7745483-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:32.9003021Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Sony ouvre une chasse aux bugs.",
+            "English": "Sony opens hunt for bugs."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:36.1779188-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:44.4187703Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "c'est mon fils très aimé, c'est lui que j'ai choisi avec joie",
+            "English": "This is my beloved son, him that I have chosen with joy"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:22.0580835-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:47.3488116Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "La Wild Code School ouvre un 1er (premier) campus virtuel",
+            "English": "The Wild Code School opens their first virtual campus"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:17.6019826-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:04:53.2331928Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Ransomware : L'Université de San Francisco cède et verse 1,14M$",
+            "English": "Ransomware: The University of San Francisco sells and pays $ 1.14M"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:11.7047562-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Piégée début juin par le rançongiciel Netwalker,",
+            "English": "Trapped since June by the ransomware Netwalker."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:05.3347446-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:00:28.8418378Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    66
+                ]
+            }
+        ],
+        "Item": {
+            "French": "la musique",
+            "English": "music"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:56:03.0204168-08:00",
+                "PreviousCorrectDate": "2021-01-09T00:00:26.9485690Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    68
+                ]
+            }
+        ],
+        "Item": {
+            "French": "derni�re danse",
+            "English": "last dance"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:55:58.9797996-08:00",
+                "PreviousCorrectDate": "2021-01-08T23:59:38.6183035Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "l'Université de San Francisco a accepté de verser 116,4 bitcoins à un groupe de cybercriminels",
+            "English": "University of San Francisco agreed to pay 116,4 bitcoins to a group of cybercriminals."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:55:39.0140339-08:00",
+                "PreviousCorrectDate": "2021-01-08T23:59:25.8428312Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "pour recouvrer les données chiffrées relatives à son école de médecine.",
+            "English": "for recovering the encrypted data from its medical school"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:55:14.7890411-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "",
+            "English": ""
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:55:10.3725178-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Un moment difficile pour Jésus",
+            "English": "A difficult moment of Jesus"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:55:07.5763199-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Ecrit par",
+            "English": "Written by"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-15T16:55:05.8575124-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Satan pouvait bien essayé de tenter le Fils de Dieu, Jésus",
+            "English": "Satan could possibly try to tempt the Son of God, Jesus"
         }
     }
 ]
