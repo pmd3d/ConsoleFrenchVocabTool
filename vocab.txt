@@ -3,7 +3,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:55:05.8575124Z",
+                "ReviewDate": "2021-01-18T01:12:15.0050338Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -11,15 +11,15 @@
             }
         ],
         "Item": {
-            "French": "Satan pouvait bien essayé de tenter le Fils de Dieu, Jésus",
-            "English": "Satan could possibly try to tempt the Son of God, Jesus"
+            "French": "Le Chromebook R11 d'Acer choisi par Chronopost pour équiper sa force de vente",
+            "English": "The Acer Chromebook R11 chosen by Chronopost to equip its sales force"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:55:07.5763199Z",
+                "ReviewDate": "2021-01-18T01:12:46.9797481Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -27,31 +27,303 @@
             }
         ],
         "Item": {
-            "French": "Ecrit par",
-            "English": "Written by"
+            "French": "Présente dans les mises à jour Windows depuis une vingtaine d'année, le runtime Extensible Storage Engine",
+            "English": "Present in Windows update for 20 years, the runtime Extensible Storage Engine"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:13:10.9381432Z",
+                "PreviousCorrectDate": "2021-01-10T18:13:33.3425157Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "On ne peut pas dire qu'Apple soit une entreprise technologique très ouverte",
+            "English": "One cannot say that Apple is known as a very open tech company"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:13:19.3835127Z",
+                "PreviousCorrectDate": "2021-01-10T01:26:21.9117328Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Nokia va encore une fois trancher dans sa masse salariale en France. ",
+            "English": "Nokia will once again slice its payroll in France"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:13:22.0077292Z",
+                "PreviousCorrectDate": "2021-01-10T01:26:07.0941475Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "La Freebox Pop dévoilée le 7 juillet 2020",
+            "English": "Freebox pop revealed July 7, 2020"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:13:26.7544023Z",
+                "PreviousCorrectDate": "2021-01-10T01:26:02.9497297Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "La prochaine Freebox de Free va être présentée le 7 juillet 2020",
+            "English": "The next Free Freebox will be presented on July 7 2020"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:14:00.0324332Z",
+                "PreviousCorrectDate": "2021-01-10T01:25:31.7958894Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "En particulier, elle a présenté une start-up d'État : le Code du Travail numérique.",
+            "English": "In particular, she presented a state start-up: the Digital Labor Code."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:14:26.8945825Z",
+                "PreviousCorrectDate": "2021-01-10T01:25:18.1191900Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": " « L'objectif était de rendre le droit du travail accessible à tous, employés comme employeurs » a rappelé Hélène Brisset.",
+            "English": "The objective was to make labor law accessible to everyone, employees and employers, ”said Hélène Brisset."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:14:35.7364756Z",
+                "PreviousCorrectDate": "2021-01-10T01:24:48.4971242Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Le développement des alternatives à la NAND flash s'accélère avec des acteurs comme Weebit Nano",
+            "English": "The development of alternatives to NAND flash is accelerating with players like Weebit Nano"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:14:45.9345688Z",
+                "PreviousCorrectDate": "2021-01-10T01:24:37.4893349Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Comment la Gendarmerie Nationale a fait tomber EncroChat",
+            "English": "How the Gendarmerie Nationale brought down EncroChat"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:15:04.1109777Z",
+                "PreviousCorrectDate": "2021-01-10T01:24:27.3632293Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Identifié depuis 2017, EncroChat a aidé à cacher les agissements de criminels",
+            "English": "Identified since 2017, EncroChat has helped hide the actions of criminals"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:15:07.9585013Z",
+                "PreviousCorrectDate": "2021-01-10T01:23:56.0952544Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Jésus était seul",
+            "English": "Jesus was alone"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:15:12.2392526Z",
+                "PreviousCorrectDate": "2021-01-10T01:23:52.1414123Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Jésus jeûne pendant quarante jours.",
+            "English": "Jesus fasted for fourty days"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:15:15.2665675Z",
+                "PreviousCorrectDate": "2021-01-10T01:23:46.1445528Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "il avait très faim",
+            "English": "he was very hungry"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:15:22.2947477Z",
+                "PreviousCorrectDate": "2021-01-10T01:23:40.3500106Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "c'est-à dire qu'il ne mange rien pendant quarante jours",
+            "English": "that is to say that he did not eat nothing during 40 days"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:15:47.2595556Z",
+                "PreviousCorrectDate": "2021-01-10T01:23:27.8112746Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Mots de passe forts, sauvegardes récurrentes et mises à jour",
+            "English": "Strong passwords, recurrning backups, and updates"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:16:02.9290203Z",
+                "PreviousCorrectDate": "2021-01-10T01:22:38.8666583Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "L'intégration continue et le déploiement continu expliqués (1er Partie)",
+            "English": "Continuous integration and continuous deployment explained (part 1)"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-18T01:16:18.8113736Z",
+                "PreviousCorrectDate": "2021-01-10T01:22:19.0543327Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Le pipeline d'intégration continue et de dépoilement continu (CI/CD) est l'une des meilleures pratiques",
+            "English": "Continuous integration and deployment is one of the best practices"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:55:10.3725178Z",
+                "ReviewDate": "2021-01-18T01:17:01.8505076Z",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    91
+                    100
                 ]
             }
         ],
         "Item": {
-            "French": "Un moment difficile pour Jésus",
-            "English": "A difficult moment of Jesus"
+            "French": "Piégée début juin par le rançongiciel Netwalker,",
+            "English": "Trapped since June by the ransomware Netwalker."
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:55:14.7890411Z",
+                "ReviewDate": "2021-01-15T01:09:27.7038882Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -59,16 +331,15 @@
             }
         ],
         "Item": {
-            "French": "",
-            "English": ""
+            "French": "L'éternel retour des serveurs ARM",
+            "English": "The eternal return of ARM servers"
         }
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:55:39.0140339Z",
-                "PreviousCorrectDate": "2021-01-08T23:59:25.8428312Z",
+                "ReviewDate": "2021-01-15T01:09:33.2482733Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -76,16 +347,15 @@
             }
         ],
         "Item": {
-            "French": "pour recouvrer les données chiffrées relatives à son école de médecine.",
-            "English": "for recovering the encrypted data from its medical school"
+            "French": "Très populaires sur les terminaux mobiles",
+            "English": "Very popular on the mobile devices"
         }
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:55:58.9797996Z",
-                "PreviousCorrectDate": "2021-01-08T23:59:38.6183035Z",
+                "ReviewDate": "2021-01-15T01:09:37.8517927Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -93,67 +363,64 @@
             }
         ],
         "Item": {
-            "French": "l'Université de San Francisco a accepté de verser 116,4 bitcoins à un groupe de cybercriminels",
-            "English": "University of San Francisco agreed to pay 116,4 bitcoins to a group of cybercriminals."
+            "French": "Alexa, Google Assistant et Siri dans le collimateur de l'Europe",
+            "English": "Alexa, Google Assistant and Siri in the crosshairs of Europe"
         }
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:56:03.0204168Z",
-                "PreviousCorrectDate": "2021-01-09T00:00:26.9485690Z",
+                "ReviewDate": "2021-01-15T01:09:40.7358999Z",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    68
+                    91
                 ]
             }
         ],
         "Item": {
-            "French": "derni�re danse",
-            "English": "last dance"
+            "French": "L'éternel retour des serveurs ARM",
+            "English": "Eternal return of ARM servers"
         }
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:56:05.3347446Z",
-                "PreviousCorrectDate": "2021-01-09T00:00:28.8418378Z",
+                "ReviewDate": "2021-01-15T01:09:49.2818417Z",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    66
+                    91
                 ]
             }
         ],
         "Item": {
-            "French": "la musique",
-            "English": "music"
+            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
+            "English": "An investigation unit and 60 gendarmes involved"
         }
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-16T00:56:17.6019826Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:53.2331928Z",
+                "ReviewDate": "2021-01-16T00:58:54.0170404Z",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    82
+                    91
                 ]
             }
         ],
         "Item": {
-            "French": "Ransomware : L'Université de San Francisco cède et verse 1,14M$",
-            "English": "Ransomware: The University of San Francisco sells and pays $ 1.14M"
+            "French": "les équipes de développement peuvent adopter pour apporter des modifications aux codes",
+            "English": "development teams can adopt for bringing changes to code"
         }
     },
     {
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2021-01-16T00:56:22.0580835Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:47.3488116Z",
+                "ReviewDate": "2021-01-16T00:58:38.2793816Z",
+                "PreviousCorrectDate": "2021-01-09T00:01:46.0347028Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     82
@@ -161,178 +428,8 @@
             }
         ],
         "Item": {
-            "French": "La Wild Code School ouvre un 1er (premier) campus virtuel",
-            "English": "The Wild Code School opens their first virtual campus"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:56:36.1779188Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:44.4187703Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "c'est mon fils très aimé, c'est lui que j'ai choisi avec joie",
-            "English": "This is my beloved son, him that I have chosen with joy"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:56:45.7745483Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:32.9003021Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Sony ouvre une chasse aux bugs.",
-            "English": "Sony opens hunt for bugs."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:56:51.1908825Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:26.8877719Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Le groupe France Télévisions frappé par une cyberattaque",
-            "English": "French TV group hit by a cyberattack"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:57:05.4475067Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:21.9528001Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "vous risquez de vous priver de bonnes protections de base, faciles à mettre en place et à maintenir.",
-            "English": "you risk depriving yourself of of good basic protections, easy to setup and maintain."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:57:10.7803415Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:13.3219406Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Si vous ignorez ou si vous avez désactivé le pare-feu de Windows,",
-            "English": "If you ignore or if you have deactivated the guard fire of windows,"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:57:30.6917056Z",
-                "PreviousCorrectDate": "2021-01-09T00:04:01.4728531Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Depuis 2016, le réseau de formations labellisées Grande Ecole du Numérique (GEN) a permis à 27 921 personnes de se former aux métiers du numérique sur l'ensemble du territoire français.",
-            "English": "Since 2016, the network of educations named Big School of Numeric, allowed 27,921 people to train for digital jobs throughout France"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:57:35.3474311Z",
-                "PreviousCorrectDate": "2021-01-09T00:03:37.2003893Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Un cocktail de données personnelles et financières dévoilées",
-            "English": "A cocktail of personal and  financial data revealed"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:57:49.3003599Z",
-                "PreviousCorrectDate": "2021-01-09T00:03:34.1698410Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "« C'est le plus grand hack publié des agences américaines d'application de la loi », a écrit Emma Best, rapporte Wired.",
-            "English": "this is the largest hack released from american law agency, wrote Emma Best, reports Wired"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:58:05.1073416Z",
-                "PreviousCorrectDate": "2021-01-09T00:03:08.3783238Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "les Anonymous ont publié 269 Go de données issues de bases de données des forces de police.",
-            "English": "anonymous have published 269 GB from police databases"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-16T00:58:07.1369762Z",
-                "PreviousCorrectDate": "2021-01-09T00:02:51.0710648Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Mais",
-            "English": "but"
+            "French": "Nokia va supprimer plus de 1 200 emplois en France",
+            "English": "Nokia will cut more than 12000 epmloyees in France"
         }
     },
     {
@@ -356,8 +453,8 @@
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2021-01-16T00:58:38.2793816Z",
-                "PreviousCorrectDate": "2021-01-09T00:01:46.0347028Z",
+                "ReviewDate": "2021-01-16T00:58:07.1369762Z",
+                "PreviousCorrectDate": "2021-01-09T00:02:51.0710648Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     82
@@ -365,15 +462,237 @@
             }
         ],
         "Item": {
-            "French": "Nokia va supprimer plus de 1 200 emplois en France",
-            "English": "Nokia will cut more than 12000 epmloyees in France"
+            "French": "Mais",
+            "English": "but"
         }
     },
     {
         "Status": [
-            "PreviouslyFirstCorrect",
+            "PreviouslyCorrect",
             {
-                "ReviewDate": "2021-01-16T00:58:54.0170404Z",
+                "ReviewDate": "2021-01-16T00:58:05.1073416Z",
+                "PreviousCorrectDate": "2021-01-09T00:03:08.3783238Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "les Anonymous ont publié 269 Go de données issues de bases de données des forces de police.",
+            "English": "anonymous have published 269 GB from police databases"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:57:49.3003599Z",
+                "PreviousCorrectDate": "2021-01-09T00:03:34.1698410Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "« C'est le plus grand hack publié des agences américaines d'application de la loi », a écrit Emma Best, rapporte Wired.",
+            "English": "this is the largest hack released from american law agency, wrote Emma Best, reports Wired"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:57:35.3474311Z",
+                "PreviousCorrectDate": "2021-01-09T00:03:37.2003893Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Un cocktail de données personnelles et financières dévoilées",
+            "English": "A cocktail of personal and  financial data revealed"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:57:30.6917056Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:01.4728531Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Depuis 2016, le réseau de formations labellisées Grande Ecole du Numérique (GEN) a permis à 27 921 personnes de se former aux métiers du numérique sur l'ensemble du territoire français.",
+            "English": "Since 2016, the network of educations named Big School of Numeric, allowed 27,921 people to train for digital jobs throughout France"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:57:10.7803415Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:13.3219406Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Si vous ignorez ou si vous avez désactivé le pare-feu de Windows,",
+            "English": "If you ignore or if you have deactivated the guard fire of windows,"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:57:05.4475067Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:21.9528001Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "vous risquez de vous priver de bonnes protections de base, faciles à mettre en place et à maintenir.",
+            "English": "you risk depriving yourself of of good basic protections, easy to setup and maintain."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:56:51.1908825Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:26.8877719Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Le groupe France Télévisions frappé par une cyberattaque",
+            "English": "French TV group hit by a cyberattack"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:56:45.7745483Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:32.9003021Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Sony ouvre une chasse aux bugs.",
+            "English": "Sony opens hunt for bugs."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:56:36.1779188Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:44.4187703Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "c'est mon fils très aimé, c'est lui que j'ai choisi avec joie",
+            "English": "This is my beloved son, him that I have chosen with joy"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:56:22.0580835Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:47.3488116Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "La Wild Code School ouvre un 1er (premier) campus virtuel",
+            "English": "The Wild Code School opens their first virtual campus"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:56:17.6019826Z",
+                "PreviousCorrectDate": "2021-01-09T00:04:53.2331928Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Ransomware : L'Université de San Francisco cède et verse 1,14M$",
+            "English": "Ransomware: The University of San Francisco sells and pays $ 1.14M"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:56:05.3347446Z",
+                "PreviousCorrectDate": "2021-01-09T00:00:28.8418378Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    66
+                ]
+            }
+        ],
+        "Item": {
+            "French": "la musique",
+            "English": "music"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:56:03.0204168Z",
+                "PreviousCorrectDate": "2021-01-09T00:00:26.9485690Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    68
+                ]
+            }
+        ],
+        "Item": {
+            "French": "derni�re danse",
+            "English": "last dance"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2021-01-16T00:55:58.9797996Z",
+                "PreviousCorrectDate": "2021-01-08T23:59:38.6183035Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -381,15 +700,16 @@
             }
         ],
         "Item": {
-            "French": "les équipes de développement peuvent adopter pour apporter des modifications aux codes",
-            "English": "development teams can adopt for bringing changes to code"
+            "French": "l'Université de San Francisco a accepté de verser 116,4 bitcoins à un groupe de cybercriminels",
+            "English": "University of San Francisco agreed to pay 116,4 bitcoins to a group of cybercriminals."
         }
     },
     {
         "Status": [
-            "PreviouslyFirstCorrect",
+            "PreviouslyCorrect",
             {
-                "ReviewDate": "2021-01-13T02:05:23.4927372Z",
+                "ReviewDate": "2021-01-16T00:55:39.0140339Z",
+                "PreviousCorrectDate": "2021-01-08T23:59:25.8428312Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -397,15 +717,15 @@
             }
         ],
         "Item": {
-            "French": "Twitter massivement piraté : plus de 100 000 $ en bitcoin détournés",
-            "English": "Twitter massive hack : more than $100,000 in bitcoin diverted"
+            "French": "pour recouvrer les données chiffrées relatives à son école de médecine.",
+            "English": "for recovering the encrypted data from its medical school"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-13T02:05:30.3265134Z",
+                "ReviewDate": "2021-01-16T00:55:10.3725178Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -413,15 +733,15 @@
             }
         ],
         "Item": {
-            "French": "Dell confirme envisager un spin-off avec VMware",
-            "English": "Dell confirms considering a spin off of VMWare"
+            "French": "Un moment difficile pour Jésus",
+            "English": "A difficult moment of Jesus"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-13T02:05:37.0645091Z",
+                "ReviewDate": "2021-01-16T00:55:07.5763199Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -429,47 +749,15 @@
             }
         ],
         "Item": {
-            "French": "que valent vraiment vos données",
-            "English": "What worth really your data?"
+            "French": "Ecrit par",
+            "English": "Written by"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-13T02:06:17.4214853Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Des faux supports techniques à détecter pour mieux les éviter",
-            "English": "Fake technical support detected for better to avoid."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-13T02:06:50.0017580Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Cette fois-ci, c'est parti.",
-            "English": "This time, it's gone"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-15T01:09:49.2818417Z",
+                "ReviewDate": "2021-01-16T00:55:05.8575124Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -477,15 +765,15 @@
             }
         ],
         "Item": {
-            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
-            "English": "An investigation unit and 60 gendarmes involved"
+            "French": "Satan pouvait bien essayé de tenter le Fils de Dieu, Jésus",
+            "English": "Satan could possibly try to tempt the Son of God, Jesus"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-15T01:09:40.7358999Z",
+                "ReviewDate": "2021-01-19T10:53:24.1050631-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -493,95 +781,15 @@
             }
         ],
         "Item": {
-            "French": "L'éternel retour des serveurs ARM",
-            "English": "Eternal return of ARM servers"
+            "French": "mais reste à savoir si pour ce prix serré Netflix sera ou pas inclus",
+            "English": "but it remains to be seen whether Netflix will be included for this tight price"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-15T01:09:37.8517927Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Alexa, Google Assistant et Siri dans le collimateur de l'Europe",
-            "English": "Alexa, Google Assistant and Siri in the crosshairs of Europe"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-15T01:09:33.2482733Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Très populaires sur les terminaux mobiles",
-            "English": "Very popular on the mobile devices"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-15T01:09:27.7038882Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "L'éternel retour des serveurs ARM",
-            "English": "The eternal return of ARM servers"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyFirstCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:17:01.8505076-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Piégée début juin par le rançongiciel Netwalker,",
-            "English": "Trapped since June by the ransomware Netwalker."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-17T17:16:47.3471596-08:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "C’est donc le quatrième plan",
-            "English": "So this is the fourth plan"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2021-01-17T17:16:30.1968528-08:00",
+                "ReviewDate": "2021-01-19T10:53:00.6876911-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -595,44 +803,9 @@
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyIncorrect",
             {
-                "ReviewDate": "2021-01-17T17:16:18.8113736-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:22:19.0543327Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Le pipeline d'intégration continue et de dépoilement continu (CI/CD) est l'une des meilleures pratiques",
-            "English": "Continuous integration and deployment is one of the best practices"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:16:02.9290203-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:22:38.8666583Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "L'intégration continue et le déploiement continu expliqués (1er Partie)",
-            "English": "Continuous integration and continuous deployment explained (part 1)"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:15:47.2595556-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:23:27.8112746Z",
+                "ReviewDate": "2021-01-19T10:52:46.8844434-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -640,168 +813,49 @@
             }
         ],
         "Item": {
-            "French": "Mots de passe forts, sauvegardes récurrentes et mises à jour",
-            "English": "Strong passwords, recurrning backups, and updates"
+            "French": "C’est donc le quatrième plan",
+            "English": "So this is the fourth plan"
         }
     },
     {
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2021-01-17T17:15:22.2947477-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:23:40.3500106Z",
+                "ReviewDate": "2021-01-19T10:52:26.6215445-08:00",
+                "PreviousCorrectDate": "2021-01-13T02:06:50.0017580Z",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    82
+                    100
                 ]
             }
         ],
         "Item": {
-            "French": "c'est-à dire qu'il ne mange rien pendant quarante jours",
-            "English": "that is to say that he did not eat nothing during 40 days"
+            "French": "Cette fois-ci, c'est parti.",
+            "English": "This time, it's gone"
         }
     },
     {
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2021-01-17T17:15:15.2665675-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:23:46.1445528Z",
+                "ReviewDate": "2021-01-19T10:52:13.3292224-08:00",
+                "PreviousCorrectDate": "2021-01-13T02:06:17.4214853Z",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    82
+                    100
                 ]
             }
         ],
         "Item": {
-            "French": "il avait très faim",
-            "English": "he was very hungry"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:15:12.2392526-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:23:52.1414123Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Jésus jeûne pendant quarante jours.",
-            "English": "Jesus fasted for fourty days"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:15:07.9585013-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:23:56.0952544Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Jésus était seul",
-            "English": "Jesus was alone"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:15:04.1109777-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:24:27.3632293Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Identifié depuis 2017, EncroChat a aidé à cacher les agissements de criminels",
-            "English": "Identified since 2017, EncroChat has helped hide the actions of criminals"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:14:45.9345688-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:24:37.4893349Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Comment la Gendarmerie Nationale a fait tomber EncroChat",
-            "English": "How the Gendarmerie Nationale brought down EncroChat"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:14:35.7364756-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:24:48.4971242Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Le développement des alternatives à la NAND flash s'accélère avec des acteurs comme Weebit Nano",
-            "English": "The development of alternatives to NAND flash is accelerating with players like Weebit Nano"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:14:26.8945825-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:25:18.1191900Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": " « L'objectif était de rendre le droit du travail accessible à tous, employés comme employeurs » a rappelé Hélène Brisset.",
-            "English": "The objective was to make labor law accessible to everyone, employees and employers, ”said Hélène Brisset."
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:14:00.0324332-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:25:31.7958894Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "En particulier, elle a présenté une start-up d'État : le Code du Travail numérique.",
-            "English": "In particular, she presented a state start-up: the Digital Labor Code."
+            "French": "Des faux supports techniques à détecter pour mieux les éviter",
+            "English": "Fake technical support detected for better to avoid."
         }
     },
     {
         "Status": [
             "PreviouslyIncorrect",
             {
-                "ReviewDate": "2021-01-17T17:13:44.3479746-08:00",
+                "ReviewDate": "2021-01-19T10:51:55.2209157-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -809,83 +863,47 @@
             }
         ],
         "Item": {
-            "French": "mais reste à savoir si pour ce prix serré Netflix sera ou pas inclus",
-            "English": "but it remains to be seen whether Netflix will be included for this tight price"
+            "French": "que valent vraiment vos données",
+            "English": "What worth really your data?"
         }
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyIncorrect",
             {
-                "ReviewDate": "2021-01-17T17:13:26.7544023-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:26:02.9497297Z",
+                "ReviewDate": "2021-01-19T10:51:05.1766574-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    82
+                    100
                 ]
             }
         ],
         "Item": {
-            "French": "La prochaine Freebox de Free va être présentée le 7 juillet 2020",
-            "English": "The next Free Freebox will be presented on July 7 2020"
+            "French": "Dell confirme envisager un spin-off avec VMware",
+            "English": "Dell confirms considering a spin off of VMWare"
         }
     },
     {
         "Status": [
-            "PreviouslyCorrect",
+            "PreviouslyIncorrect",
             {
-                "ReviewDate": "2021-01-17T17:13:22.0077292-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:26:07.0941475Z",
+                "ReviewDate": "2021-01-19T10:50:57.4419215-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
-                    82
+                    100
                 ]
             }
         ],
         "Item": {
-            "French": "La Freebox Pop dévoilée le 7 juillet 2020",
-            "English": "Freebox pop revealed July 7, 2020"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:13:19.3835127-08:00",
-                "PreviousCorrectDate": "2021-01-10T01:26:21.9117328Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Nokia va encore une fois trancher dans sa masse salariale en France. ",
-            "English": "Nokia will once again slice its payroll in France"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2021-01-17T17:13:10.9381432-08:00",
-                "PreviousCorrectDate": "2021-01-10T18:13:33.3425157Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "On ne peut pas dire qu'Apple soit une entreprise technologique très ouverte",
-            "English": "One cannot say that Apple is known as a very open tech company"
+            "French": "Twitter massivement piraté : plus de 100 000 $ en bitcoin détournés",
+            "English": "Twitter massive hack : more than $100,000 in bitcoin diverted"
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-17T17:12:46.9797481-08:00",
+                "ReviewDate": "2021-01-19T10:50:40.3550819-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -893,15 +911,15 @@
             }
         ],
         "Item": {
-            "French": "Présente dans les mises à jour Windows depuis une vingtaine d'année, le runtime Extensible Storage Engine",
-            "English": "Present in Windows update for 20 years, the runtime Extensible Storage Engine"
+            "French": "",
+            "English": ""
         }
     },
     {
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2021-01-17T17:12:15.0050338-08:00",
+                "ReviewDate": "2021-01-19T10:50:37.0346275-08:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -909,8 +927,24 @@
             }
         ],
         "Item": {
-            "French": "Le Chromebook R11 d'Acer choisi par Chronopost pour équiper sa force de vente",
-            "English": "The Acer Chromebook R11 chosen by Chronopost to equip its sales force"
+            "French": "Le site LaPoste.fr a été indisponible plusieurs heures ce jeudi matin.",
+            "English": "The website LaPoste.fr was unavailable for several hours this Thursday morning"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2021-01-19T10:50:22.4969278-08:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "En cause, un problème de certificat Izenpe révoqué dix jours avant sa fin de validité.",
+            "English": "In question, a problem certificate Izenpe revoked 10 days before its expiry date"
         }
     }
 ]
