@@ -17,7 +17,7 @@ type vocabi = { French : string; English : string }
 
 type UserAction = ReviewOutcome of ReviewOutcome | Quit
 
-let getNow() = DateTime.Now.AddDays(180.0)
+let getNow() = DateTime.Now
 
 let help() =
     printfn "Hit enter to get translation. Outcome: 0 Stop 1 Perfect 2 Hesitant 3 Incorrect. ? to display this"
@@ -76,8 +76,8 @@ let rec AskVocabList() =
         | Ok data ->
             printfn "loaded %s" line
             data
-        | _ -> 
-            printfn "error loading data. restarting..."
+        | Error e -> 
+            printfn "error loading data. restarting...%s" e
             AskVocabList()
 
 let merge (primary : ReviewItem<vocab> List) (secondary : ReviewItem<vocab> List) =
@@ -93,7 +93,7 @@ let merge (primary : ReviewItem<vocab> List) (secondary : ReviewItem<vocab> List
 let main argv =
     let vocabList : ReviewItem<vocab> List  = AskVocabList()
     let strategy = new SuperMemo2ReviewStrategy(getNow)
-    let studySession = new StudySession<vocab>(vocabList, getNow, strategy, 3, 3)
+    let studySession = new StudySession<vocab>(vocabList, getNow, strategy, 22, 22)
     let stepQuiz = quizzer studySession
     help()
     printfn "Press enter to start..."
