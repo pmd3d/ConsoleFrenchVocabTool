@@ -1,5 +1,156 @@
 [
     {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": ""vous savez de quoi vous parlez"",
+            "English": "you know what you are saying"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-08-01T17:40:30.9057938Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Fondée en 2013 à San José, la start-up Robin affiche pour objectif d’apporter les bénéfices du cloud natif aux applications data et réseau.",
+            "English": "Founded in 2013 in San Jose, the startup Robin aims to bring the benefits of cloud native to data and network applications"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-08-01T17:40:36.4652413Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Apporte au code source du jdk",
+            "English": "Brings to the source code of the jdk"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-08-01T17:41:00.7568563Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Qui ne sera disponible avant Mars 2021",
+            "English": "which will not be available until March 2021"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-08-01T17:41:08.9661050Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Le prochaine mise a niveau de Java",
+            "English": "Next update of java"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-08-01T17:41:16.7450334Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Vous pouvez modifier sa visibilité à tout moment",
+            "English": "You can change its visibility at any time"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-07-29T00:52:39.5815827Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Microsoft évoque un Windows virtualisé par abonnement",
+            "English": "Microsoft talks of a virtual windows for subscription"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-07-29T00:52:43.3789050Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
+            "English": "An investigation unit and 60 gendarmes involved"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-07-29T00:52:50.3776828Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "On sait peu de choses sur la conférence WWDC 2020",
+            "English": "Little is known about the WWDC 2020 conference"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-07-29T00:53:01.8092307Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Le site LaPoste.fr a été indisponible plusieurs heures ce jeudi matin.",
+            "English": "The website LaPoste.fr was unavailable for several hours this Thursday morning"
+        }
+    },
+    {
         "Status": [
             "PreviouslyCorrect",
             {
@@ -724,7 +875,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:54:47.0384882-07:00",
+                "ReviewDate": "2020-07-28T00:54:47.0384882Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -740,7 +891,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:54:42.1892110-07:00",
+                "ReviewDate": "2020-07-28T00:54:42.1892110Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -756,7 +907,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:54:39.1698612-07:00",
+                "ReviewDate": "2020-07-28T00:54:39.1698612Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -772,7 +923,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:54:35.8544238-07:00",
+                "ReviewDate": "2020-07-28T00:54:35.8544238Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -786,25 +937,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2020-07-27T17:54:28.6635644-07:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Une cellule d'enquête et 60 gendarmes impliqués",
-            "English": "An investigation unit and 60 gendarmes involved"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:54:17.8381964-07:00",
+                "ReviewDate": "2020-07-28T00:54:17.8381964Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -820,7 +955,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:54:09.2593552-07:00",
+                "ReviewDate": "2020-07-28T00:54:09.2593552Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -836,7 +971,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:56.6692555-07:00",
+                "ReviewDate": "2020-07-28T00:53:56.6692555Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -852,7 +987,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:53.2703616-07:00",
+                "ReviewDate": "2020-07-28T00:53:53.2703616Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -868,7 +1003,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:47.6373426-07:00",
+                "ReviewDate": "2020-07-28T00:53:47.6373426Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -884,7 +1019,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:41.4937441-07:00",
+                "ReviewDate": "2020-07-28T00:53:41.4937441Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -900,7 +1035,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:35.3385283-07:00",
+                "ReviewDate": "2020-07-28T00:53:35.3385283Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -914,25 +1049,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2020-07-27T17:53:29.1072407-07:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "On sait peu de choses sur la conférence WWDC 2020",
-            "English": "Little is known about the WWDC 2020 conference"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:20.3556876-07:00",
+                "ReviewDate": "2020-07-28T00:53:20.3556876Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -948,7 +1067,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:17.4560647-07:00",
+                "ReviewDate": "2020-07-28T00:53:17.4560647Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -964,7 +1083,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:09.0086482-07:00",
+                "ReviewDate": "2020-07-28T00:53:09.0086482Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -980,7 +1099,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:53:01.2970888-07:00",
+                "ReviewDate": "2020-07-28T00:53:01.2970888Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -994,25 +1113,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2020-07-27T17:52:55.4092713-07:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Le site LaPoste.fr a été indisponible plusieurs heures ce jeudi matin.",
-            "English": "The website LaPoste.fr was unavailable for several hours this Thursday morning"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:52:42.4274791-07:00",
+                "ReviewDate": "2020-07-28T00:52:42.4274791Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -1028,7 +1131,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-07-27T17:52:27.0939030-07:00",
+                "ReviewDate": "2020-07-28T00:52:27.0939030Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -1038,6 +1141,102 @@
         "Item": {
             "French": "Le pain ne suffit pas a faire vivre l'homme",
             "English": "Bread is not enough for man to live"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-07-29T22:51:06.2352740Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "votre avis nous intéresse projets innovants",
+            "English": "Your opinion matters to us innovative projects"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-07-29T22:50:49.9023505Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "6 façons dont le cloud d'Alibaba défie AWS, Azure et GCP",
+            "English": "6 ways Alibaba's cloud challenges AWS, Azure, and GCP"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-07-29T22:50:36.7677528Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Depuis quelques années, Alibaba Cloud monte en puissance à l'international.",
+            "English": "In recent years, Alibaba Cloud has been gaining momentum internationally"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-08-02T13:03:03.4855189-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Meme si livraison du",
+            "English": "Even if the delivery of"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-08-02T13:02:55.5195254-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Test Adata Falcon NVMe 1 To : encore trop cher en Europe",
+            "English": "Adata Falcon NVMe 1TB test: again too much expensive in Europe"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-08-02T13:02:44.7441614-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Bien qu'il soit lent en écriture selon les normes NVMe, l'Adata Falcon 1 To peut s'avérer un bon compagnon au quotidien.",
+            "English": "Even though it is slow in write by NVMe standards, the Adata Falcon 1TB can be a good companion daily."
         }
     }
 ]
