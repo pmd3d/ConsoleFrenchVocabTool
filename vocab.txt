@@ -1,5 +1,12 @@
 [
     {
+        "Status": "NeverReviewed",
+        "Item": {
+            "French": "Je vais très bien",
+            "English": "I am doing well"
+        }
+    },
+    {
         "Status": [
             "PreviouslyFirstCorrect",
             {
