@@ -1,44 +1,69 @@
 [
-{
-    "Status": "NeverReviewed",
-    "Item": {
-        "French": "Nous avons vu la pleine puissance de l’outil digital",
-        "English": "We have seen the full power of the digital tool"
-    }
-},
-{
-    "Status": "NeverReviewed",
-    "Item": {
-        "French": "Microsoft France veut accélérer la transformation digitale des PME",
-        "English": "Microsoft France wants to accelerate digital transformation of SMEs"
-    }
-},
-{
-    "Status": "NeverReviewed",
-    "Item": {
-        "French": "SAP France a dépassé les 21% de croissance enregistrés au niveau mondial par l'éditeur allemand sur les revenus de ses solutions cloud",
-        "English": "SAP France exceeded the 21% growth recorded worldwide by the German publisher on revenues from cloud solutions"
-    }
-},
-{
-    "Status": "NeverReviewed",
-    "Item": {
-        "French": "Une rentrée offensive sur le cloud pour SAP France",
-        "English": "An offensive return tot he cloud for SAP France"
-    }
-},
-{
-    "Status": "NeverReviewed",
-    "Item": {
-        "French": "fiable",
-        "English": "reliable"
-    }
-},
     {
-        "Status": "NeverReviewed",
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2020-09-22T19:01:31.9208983Z",
+                "PreviousCorrectDate": "2020-09-08T18:43:36.8593857Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    73
+                ]
+            }
+        ],
         "Item": {
-            "French": "Je vais très bien",
-            "English": "I am doing well"
+            "French": "Cette fois-ci, c'est parti.",
+            "English": "This time, it's gone"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2020-09-22T19:02:12.6969710Z",
+                "PreviousCorrectDate": "2020-09-08T18:42:52.4567161Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "A travers la version beta du dernier OS de l'Apple Watch, plusieurs fonctionnalités dévoilent leur évolution ou leur innovation.",
+            "English": "Through the beta version of the latest OS of Apple Watch, several features revealed their evolution or their innovation"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyCorrect",
+            {
+                "ReviewDate": "2020-09-22T19:02:18.4285790Z",
+                "PreviousCorrectDate": "2020-09-08T18:42:25.5245983Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    82
+                ]
+            }
+        ],
+        "Item": {
+            "French": "j'ai vu",
+            "English": "I saw"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-09-22T19:02:59.6570213Z",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "et après",
+            "English": "and next"
         }
     },
     {
@@ -1472,74 +1497,6 @@
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2020-09-08T18:43:36.8593857Z",
-                "PreviousCorrectDate": "2020-08-30T18:11:34.4575835Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    82
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Cette fois-ci, c'est parti.",
-            "English": "This time, it's gone"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2020-09-08T18:43:19.5477830Z",
-                "PreviousCorrectDate": "2020-08-30T18:05:42.5193448Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    66
-                ]
-            }
-        ],
-        "Item": {
-            "French": "votre avis nous intéresse projets innovants",
-            "English": "Your opinion matters to us innovative projects"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2020-09-08T18:42:52.4567161Z",
-                "PreviousCorrectDate": "2020-08-30T18:05:12.3835997Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "A travers la version beta du dernier OS de l'Apple Watch, plusieurs fonctionnalités dévoilent leur évolution ou leur innovation.",
-            "English": "Through the beta version of the latest OS of Apple Watch, several features revealed their evolution or their innovation"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2020-09-08T18:42:25.5245983Z",
-                "PreviousCorrectDate": "2020-08-30T18:04:32.5553225Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    91
-                ]
-            }
-        ],
-        "Item": {
-            "French": "j'ai vu",
-            "English": "I saw"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
                 "ReviewDate": "2020-09-08T18:57:37.0675442Z",
                 "PreviousCorrectDate": "2020-08-22T17:00:43.0024568Z",
                 "DifficultyRating": [
@@ -1670,23 +1627,6 @@
         "Item": {
             "French": "Vous pouvez modifier sa visibilité à tout moment",
             "English": "You can change its visibility at any time"
-        }
-    },
-    {
-        "Status": [
-            "PreviouslyCorrect",
-            {
-                "ReviewDate": "2020-09-10T00:28:43.9062939Z",
-                "PreviousCorrectDate": "2020-08-30T18:11:08.2686708Z",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "Sortie il y a près de 7 ans, la version 11 du navigateur Internet Explorer va tirer sa révérence.",
-            "English": "Released almost 7 years ago, the version 11 of browser IE will be retired."
         }
     },
     {
@@ -1978,7 +1918,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-09-19T21:32:09.0749155-07:00",
+                "ReviewDate": "2020-09-20T04:32:09.0749155Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -1994,7 +1934,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-09-19T21:31:44.5138558-07:00",
+                "ReviewDate": "2020-09-20T04:31:44.5138558Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -2008,25 +1948,9 @@
     },
     {
         "Status": [
-            "PreviouslyIncorrect",
-            {
-                "ReviewDate": "2020-09-19T21:31:27.0861194-07:00",
-                "DifficultyRating": [
-                    "DifficultyRating",
-                    100
-                ]
-            }
-        ],
-        "Item": {
-            "French": "et après",
-            "English": "and next"
-        }
-    },
-    {
-        "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-09-19T21:31:20.0282141-07:00",
+                "ReviewDate": "2020-09-20T04:31:20.0282141Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     91
@@ -2042,7 +1966,7 @@
         "Status": [
             "PreviouslyFirstCorrect",
             {
-                "ReviewDate": "2020-09-19T21:31:11.0926071-07:00",
+                "ReviewDate": "2020-09-20T04:31:11.0926071Z",
                 "DifficultyRating": [
                     "DifficultyRating",
                     84
@@ -2058,7 +1982,7 @@
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2020-09-19T21:30:56.1817297-07:00",
+                "ReviewDate": "2020-09-20T04:30:56.1817297Z",
                 "PreviousCorrectDate": "2020-09-13T16:52:37.2873633Z",
                 "DifficultyRating": [
                     "DifficultyRating",
@@ -2075,7 +1999,7 @@
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2020-09-19T21:30:50.5037577-07:00",
+                "ReviewDate": "2020-09-20T04:30:50.5037577Z",
                 "PreviousCorrectDate": "2020-09-13T16:52:53.0054537Z",
                 "DifficultyRating": [
                     "DifficultyRating",
@@ -2092,7 +2016,7 @@
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2020-09-19T21:30:35.8119167-07:00",
+                "ReviewDate": "2020-09-20T04:30:35.8119167Z",
                 "PreviousCorrectDate": "2020-09-13T16:53:01.9485969Z",
                 "DifficultyRating": [
                     "DifficultyRating",
@@ -2109,7 +2033,7 @@
         "Status": [
             "PreviouslyCorrect",
             {
-                "ReviewDate": "2020-09-19T21:30:26.6058292-07:00",
+                "ReviewDate": "2020-09-20T04:30:26.6058292Z",
                 "PreviousCorrectDate": "2020-09-13T16:53:53.0323011Z",
                 "DifficultyRating": [
                     "DifficultyRating",
@@ -2126,7 +2050,39 @@
         "Status": [
             "PreviouslyIncorrect",
             {
-                "ReviewDate": "2020-09-19T21:29:52.7143834-07:00",
+                "ReviewDate": "2020-09-22T12:10:30.6596320-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    88
+                ]
+            }
+        ],
+        "Item": {
+            "French": "votre avis nous intéresse projets innovants",
+            "English": "Your opinion matters to us innovative projects"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-09-22T12:10:28.5170603-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Sortie il y a près de 7 ans, la version 11 du navigateur Internet Explorer va tirer sa révérence.",
+            "English": "Released almost 7 years ago, the version 11 of browser IE will be retired."
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-09-22T12:10:22.2776597-07:00",
                 "DifficultyRating": [
                     "DifficultyRating",
                     100
@@ -2136,6 +2092,102 @@
         "Item": {
             "French": "vmware et dell continuent de tailler dans leurs effectifs",
             "English": "vmware and dell continue to cut into their workforce"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-09-22T12:10:11.0896215-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Je vais très bien",
+            "English": "I am doing well"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-09-22T12:10:05.5255673-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "fiable",
+            "English": "reliable"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-09-22T12:10:03.1593860-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Une rentrée offensive sur le cloud pour SAP France",
+            "English": "An offensive return tot he cloud for SAP France"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-09-22T12:09:57.0784579-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "SAP France a dépassé les 21% de croissance enregistrés au niveau mondial par l'éditeur allemand sur les revenus de ses solutions cloud",
+            "English": "SAP France exceeded the 21% growth recorded worldwide by the German publisher on revenues from cloud solutions"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyFirstCorrect",
+            {
+                "ReviewDate": "2020-09-22T12:09:55.3324973-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    91
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Microsoft France veut accélérer la transformation digitale des PME",
+            "English": "Microsoft France wants to accelerate digital transformation of SMEs"
+        }
+    },
+    {
+        "Status": [
+            "PreviouslyIncorrect",
+            {
+                "ReviewDate": "2020-09-22T12:09:52.0645367-07:00",
+                "DifficultyRating": [
+                    "DifficultyRating",
+                    100
+                ]
+            }
+        ],
+        "Item": {
+            "French": "Nous avons vu la pleine puissance de l’outil digital",
+            "English": "We have seen the full power of the digital tool"
         }
     }
 ]
