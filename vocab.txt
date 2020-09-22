@@ -2,6 +2,34 @@
 {
     "Status": "NeverReviewed",
     "Item": {
+        "French": "Nous avons vu la pleine puissance de l’outil digital",
+        "English": "We have seen the full power of the digital tool"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Microsoft France veut accélérer la transformation digitale des PME",
+        "English": "Microsoft France wants to accelerate digital transformation of SMEs"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "SAP France a dépassé les 21% de croissance enregistrés au niveau mondial par l'éditeur allemand sur les revenus de ses solutions cloud",
+        "English": "SAP France exceeded the 21% growth recorded worldwide by the German publisher on revenues from cloud solutions"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Une rentrée offensive sur le cloud pour SAP France",
+        "English": "An offensive return tot he cloud for SAP France"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
         "French": "fiable",
         "English": "reliable"
     }
