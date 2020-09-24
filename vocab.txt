@@ -1,4 +1,18 @@
 [
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Le confinement a révélé des écarts de maturité numérique très fort entre les entreprises.",
+        "English": "The quarantine revealed differences very strong in digital maturity between companies"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Suivez notre web conférence",
+        "English": "Follow our web conference"
+    }
+},
     {
         "Status": [
             "PreviouslyCorrect",
