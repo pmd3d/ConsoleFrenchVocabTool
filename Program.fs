@@ -84,7 +84,7 @@ let rec AskVocabList() =
         match (Decode.Auto.fromString text) with
         | Ok data ->
             printfn "loaded %s" line
-            data
+            data, line
         | Error e -> 
             printfn "error loading data. restarting...%s" e
             AskVocabList()
@@ -100,7 +100,7 @@ let merge (primary : ReviewItem<vocab> List) (secondary : ReviewItem<vocab> List
 
 [<EntryPoint>]
 let main argv =
-    let vocabList : ReviewItem<vocab> List  = AskVocabList()
+    let (vocabList : ReviewItem<vocab> List, inputFileName : String) = AskVocabList()
     let strategy = new SuperMemo2ReviewStrategy(getNow)
     let studySession = new StudySession<vocab>(vocabList, getNow, strategy, 22, 22)
     let stepQuiz = quizzer studySession
@@ -113,5 +113,5 @@ let main argv =
     let json = Encode.Auto.toString(4, result)
     printfn "Enter to save to disk or ctrl-c exit..."
     Console.ReadLine() |> ignore
-    File.WriteAllText("vocab.txt", json)
+    File.WriteAllText(inputFileName, json)
     0 // return an ok exit code
