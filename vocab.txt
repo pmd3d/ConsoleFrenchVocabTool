@@ -1,4 +1,32 @@
 [
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "IPO à venir pour McAfee"
+        "English": "ipo upcoming for mcafee"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "bientôt"
+        "English": "soon"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Avec du retard, les enchères pour les fréquences 5G débutent."
+        "English": "with delay, the auction of frequencies 5g begins"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "5G : des enchères et des doutes"
+        "English": "5G auctions and doubts"
+    }
+},
     {
         "Status": [
             "PreviouslyCorrect",
