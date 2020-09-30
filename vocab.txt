@@ -2,6 +2,13 @@
 {
     "Status": "NeverReviewed",
     "Item": {
+        "French": "IPO à venir pour McAfee"
+        "English": "ipo upcoming for mcafee"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
         "French": "bientôt"
         "English": "soon"
     }
