@@ -1,4 +1,11 @@
 [
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Google Pixel 5: moins haut de gamme, plus abordable",
+        "English": "Google Pixel 5: less upscale, more affordable"
+    }
+},
     {
         "Status": [
             "PreviouslyCorrect",
