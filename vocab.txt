@@ -3,7 +3,7 @@
     "Status": "NeverReviewed",
     "Item": {
         "French": "L'innovation au service de la relance",
-        "English": "Innovation in service to the recovery"
+        "English": "Innovation in service to the relaunch"
     }
 },
     {
