@@ -2,6 +2,13 @@
 {
     "Status": "NeverReviewed",
     "Item": {
+        "French": "croque un bout",
+        "English": "take a bite"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
         "French": "L'innovation au service de la relance",
         "English": "Innovation in service to the relaunch"
     }
