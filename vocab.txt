@@ -1,4 +1,11 @@
 [
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Le recrutement IT ne s'est pas écroulé en France selon Linkedin",
+        "English": "IT recruitment has not collapsed in France according to Linkedin"
+    }
+},
     {
         "Status": [
             "PreviouslyCorrect",
