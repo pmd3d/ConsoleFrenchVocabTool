@@ -2,6 +2,13 @@
 {
     "Status": "NeverReviewed",
     "Item": {
+        "French": "Apple corrige 3 failles zero day sur iOS et macOS",
+        "English": "Apple fixes 3 zero day flaws on iOS and macOS"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
         "French": "Le recrutement IT ne s'est pas écroulé en France selon Linkedin",
         "English": "IT recruitment has not collapsed in France according to Linkedin"
     }
