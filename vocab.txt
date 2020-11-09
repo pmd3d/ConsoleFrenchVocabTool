@@ -1,4 +1,10 @@
 [
+Remédier à l'écran noir de Windows 10 - 
+Le phénomène de « l'écran noir » de Windows 10 est là pour rappeler que les petites choses ont parfois
+Replace the black screen of Windows 10 -
+
+The phenomenon of the "black screen" of Windows 10 is there to remind you that little things sometimes have
+
 {
 "Status" : "Never Reviewed",
 "Item" : { "French" : "Que ce soit Thierry Breton ou Emmanuel Macron, ils se rejoignent au moins sur un point : allier transition numérique et transition écologique",
