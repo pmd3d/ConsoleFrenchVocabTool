@@ -1,5 +1,10 @@
 [
 {
+"Status" : "Never Reviewed",
+"Item" : { "French" : "Que ce soit Thierry Breton ou Emmanuel Macron, ils se rejoignent au moins sur un point : allier transition numérique et transition écologique",
+"English" : "Thierry Breton or Emmanuel Macron, they meet at least on one point: combining digital transition and ecological transition"
+}
+{
     "Status": "NeverReviewed",
     "Item": {
         "French": "Apple corrige 3 failles zero day sur iOS et macOS",
