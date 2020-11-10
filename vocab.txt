@@ -1,4 +1,5 @@
 [
+Micron livre sa NAND flash TLC à 176 couches
 {
 "Status" : "Never Reviewed",
 "Item" : { "French" : "Méthode Agile: la justice rappelle l'importance du cahier des charges",
