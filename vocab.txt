@@ -1,4 +1,5 @@
 [
+Le CERN propose des cours gratuits sur l'informatique quantique 
 Avec Eventarc, vous pouvez répondre à des cas d'utilisation clés tels que l'analyse vidéo, la conversion de fichiers, l'inscription d'un nouvel utilisate
 Micron livre sa NAND flash TLC à 176 couches
 {
