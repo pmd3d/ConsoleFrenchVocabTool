@@ -1,8 +1,32 @@
 [
-Palo Alto Networks dépense 800M$ pour le rachat d'Expanse 
-Le CERN propose des cours gratuits sur l'informatique quantique 
-Avec Eventarc, vous pouvez répondre à des cas d'utilisation clés tels que l'analyse vidéo, la conversion de fichiers, l'inscription d'un nouvel utilisate
-Micron livre sa NAND flash TLC à 176 couches
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Palo Alto Networks dépense 800M$ pour le rachat d'Expanse",
+        "English": "Palo Alto Networks spends $800 million to acquire Expanse"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Le CERN propose des cours gratuits sur l'informatique quantique",
+        "English": "CERN offers free courses in quantum computing"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Avec Eventarc, vous pouvez répondre à des cas d'utilisation clés tels que l'analyse vidéo, la conversion de fichiers, l'inscription d'un nouvel utilisate",
+        "English": "With Eventarc you can address key use cases like video analytics, file conversion, new user registration"
+    }
+},
+{
+    "Status": "NeverReviewed",
+    "Item": {
+        "French": "Micron livre sa NAND flash TLC à 176 couches",
+        "English": "Micron delivers 176-layer TLC NAND flash"
+    }
+},
 {
 "Status" : "Never Reviewed",
 "Item" : { "French" : "Méthode Agile: la justice rappelle l'importance du cahier des charges",
