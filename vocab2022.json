@@ -1,0 +1,37 @@
+[
+{
+    "Status": "1",
+    "Item": {
+        "French": "un gaz à effet de serre",
+        "English": "Greenhouse gas"
+    }
+},
+{
+    "Status": "1",
+    "Item": {
+        "French": "l’agriculture industrielle",
+        "English": "Industrial farming"
+    }
+},
+{
+    "Status": "1",
+    "Item": {
+        "French": "un agriculteur/une agricultrice",
+        "English": "A farmer"
+    }
+},
+{
+    "Status": "1",
+    "Item": {
+        "French": "la santé",
+        "English": "Health"
+    }
+},
+{
+    "Status": "1",
+    "Item": {
+        "French": "la santé",
+        "English": "Health"
+    }
+}  
+]
