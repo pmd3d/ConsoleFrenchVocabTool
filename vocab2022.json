@@ -28,13 +28,6 @@
     }
 },
 {
-    "Status": "1",
-    "Item": {
-        "French": "la santé",
-        "English": "Health"
-    }
-},
-{
   "Status" : "1",
   "Item" : {
     "French" : "l’eau douce",
