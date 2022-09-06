@@ -33,5 +33,300 @@
         "French": "la santé",
         "English": "Health"
     }
-}  
+},
+{
+  "Status" : "1",
+  "Item" : {
+    "French" : "l’eau douce",
+    "English" : "Fresh water"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "la production de viande",
+    "English" : "Meat production"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "la surpêche",
+    "English" : "Overfishing"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les espèces marines",
+    "English" : "Marine species"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "un milliard",
+    "English" : "One billion"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "s’empirer",
+    "English" : "To get worse"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "la situation va s’empirer",
+    "English" : "The situation is gonna get worse"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "la nourriture",
+    "English" : "Food"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "une ONG (Organisation non gouvernementale)",
+    "English" : "An NGO"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "une liste d’aliments",
+    "English" : "A food list"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "le petit déjeuner",
+    "English" : "Breakfast"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "le déjeuner",
+    "English" : "Lunch"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "le dîner",
+    "English" : "Dinner"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "l’espérance de vie",
+    "English" : "Life expectancy"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les algues",
+    "English" : "Algaes"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "appétissant",
+    "English" : "Appetising"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "des nutriments",
+    "English" : "Nutrients"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les bienfaits",
+    "English" : "The benefits"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "des compléments",
+    "English" : "Supplements"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les légumineuses",
+    "English" : "Legumes"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les lentilles",
+    "English" : "Lentils"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les haricots",
+    "English" : "Beans"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les haricots rouges",
+    "English" : "Red beans"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les pois chiches",
+    "English" : "Chickpeas"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "l’azote",
+    "English" : "Nitrogen"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "une recette",
+    "English" : "A recipe"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "un cuisinier/une cuisinière",
+    "English" : "A cook"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "un livre de cuisine",
+    "English" : "A cook book"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "mériter quelque chose",
+    "English" : "To deserve something"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "c’est bien mérité",
+    "English" : "It’s well deserved"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les acides aminés",
+    "English" : "Amino acids"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "l’Amérique du Sud",
+    "English" : "South America"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "l’Afrique",
+    "English" : "Africa"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "Le Moyen Orient",
+    "English" : "Middle East"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "l’Australie",
+    "English" : "Australia"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "l’agriculture intensive",
+    "English" : "Intensive farming"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "le blé",
+    "English" : "Wheat"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "le riz",
+    "English" : "Rice"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "le maïs",
+    "English" : "Corn"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les glucides",
+    "English" : "Carbohydrates"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "le sarrasin",
+    "English" : "Buckwheat"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les légumes",
+    "English" : "Vegetables"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "une betterave",
+    "English" : "A Beetroot"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les épinards",
+    "English" : "Spinach"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "une tomate",
+    "English" : "A tomato"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les myrtilles",
+    "English" : "Blueberries"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les fraises",
+    "English" : "Strawberries"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "les framboises",
+    "English" : "Raspberries"
+  }
+},{
+  "Status" : "1",
+  "Item" : {
+    "French" : "un poivron",
+    "English" : "A Bell pepper"
+  }
+}    
 ]
